@@ -4,7 +4,7 @@
   "description": "test of Hexlet",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "npx jest"
   },
   "author": "",
   "license": "ISC",
